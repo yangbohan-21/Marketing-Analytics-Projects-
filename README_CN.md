@@ -3,6 +3,17 @@
   <a href="./README.md">English</a> | <strong>简体中文</strong>
 </div>
 
+
+
+## 👥 项目团队 (Project Team)
+
+*M.S. in Marketing Analytics, University of Southern California (USC)*
+
+* **[Bohan]**
+* **[Wenkai]**
+* **[Haoxing]**
+* **[Chenyi]**
+      
 ## 1. 项目概述 
 本项目旨在为新上任的南加州大学（USC）校长制定一项具有前瞻性的社交媒体战略。通过对前任校长过去六年间的 Instagram 发文数据进行深度的量化分析，本项目揭示了多元化校园社群潜在的互动偏好与行为模式。
 

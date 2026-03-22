@@ -4,6 +4,13 @@
   <strong>English</strong> | <a href="README_CN.md">简体中文</a>
 </div>
 
+## 👥 Project Team
+*M.S. in Marketing Analytics, University of Southern California (USC)*
+* **[Bohan]**
+* **[Chenyi]**
+* **[Haoxing]**
+* **[Wenkai]**
+
 ### 1. Project Overview
     This project aims to develop a forward-looking social media strategy for the newly appointed President of the University of Southern California (USC). By conducting a deep quantitative analysis of the former president's Instagram post data spanning the last six years, this project uncovers the underlying engagement preferences and behavioral patterns of the diverse campus community.
    In conclusion, the new president must abandon generic PR jargon and rigid schedules, leveraging 'Announcements' for reach while building an authentic, highly engaged Trojan community through behind-the-scenes interactions timed with the academic rhythm

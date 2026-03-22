@@ -72,3 +72,30 @@ Notebook 结构与分析方法 (Notebook Structure & Methodology)
 
 ## 3.4 从“官方交际”向“真实共情”转型 (Pivot from "Networking" to "Authentic Relatability")
 传统的“官方交际（Networking）”会晤照片在互动量上绝对垫底。数据强烈建议新任校长放弃单向的官方播报，转而拥抱基于真实细节的“幕后视角”。强烈建议通过提问和互动功能，与核心受众（尤其是学生）开启双向对话。
+
+### 4. 数据结构 (Data Schema)
+Data Availability Statement:
+数据可用性声明：
+出于数据隐私与合规性考量，本仓库不包含原始的社交媒体数据集。
+
+| Column Name | Data Type | Description | Example |
+| :--- | :--- | :--- | :--- |
+| `Post ID` | string | Unique identifier for the post | `17912345666` |
+| `Account ID` | string | Unique identifier for the account | `12345678` |
+| `Account username` | string | System username of the account | `uscpresident` |
+| `Account name` | string | Display name of the account | `USC President` |
+| `Description` | string | Text content/caption of the post | `"Welcome class of 2027! ✌️"` |
+| `Duration (sec)` | float | Video duration (usually 0 or blank for images/carousels) | `15.5` |
+| `Publish time` | datetime | Exact publishing timestamp | `2023-08-15 10:30:00` |
+| `Permalink` | string | Permanent URL of the post | `https://instagram.com/p/xxx/` |
+| `Post type` | string | Media format (e.g., Image, Video, Carousel) | `Image` |
+| `Data comment` | string | Additional notes from the data source (often blank) | `NaN` |
+| `Date` | date | Extracted publishing date | `2023-08-15` |
+| `Views` | integer | Total number of views/plays | `25400` |
+| `Reach` | integer | Number of unique accounts reached | `18900` |
+| `Likes` | integer | Total likes | `1250` |
+| `Shares` | integer | Total shares/forwards | `120` |
+| `Follows` | integer | New followers gained directly from the post | `15` |
+| `Comments` | integer | Total comments | `45` |
+| `Saves` | integer | Total saves (specific to Instagram) | `30` |
+| `content_type` | category | **[Manually Tagged]** The core theme/category of the post | `Announcement` |

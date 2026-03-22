@@ -1,4 +1,8 @@
-# Marketing Analytics Projects
+# USC President Social Media Strategy Analysis ✌️✌️
+
+<div align="right">
+  <strong>English</strong> | <a href="README_zh.md">简体中文</a>
+</div>
 
 ### 1. Project Overview
     This project aims to develop a forward-looking social media strategy for the newly appointed President of the University of Southern California (USC). By conducting a deep quantitative analysis of the former president's Instagram post data spanning the last six years, this project uncovers the underlying engagement preferences and behavioral patterns of the diverse campus community.
